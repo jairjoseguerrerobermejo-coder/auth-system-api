@@ -46,6 +46,6 @@ x-auth-token: YOUR_TOKEN
 
 ## Run project
 
-1 mongod
-2 npm install
-3 npm run dev
+*mongod
+*npm install
+*npm run dev
